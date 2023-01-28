@@ -1,3 +1,8 @@
+This is the project with react and talwind css its just fetching the data from a news api and showing news accroding user choise....
+ its very usefull for daily news feed..
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
