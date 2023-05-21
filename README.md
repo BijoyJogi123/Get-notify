@@ -1,7 +1,14 @@
-This is the project with react and talwind css its just fetching the data from a news api and showing news accroding user choise....
+# This is the project with react and talwind css its just fetching the data from a news api and showing news accroding user choise....
  its very usefull for daily news feed..
 
+# Here is the home page 
+![all_news](https://github.com/BijoyJogi123/Get-notify/assets/104933333/3ef554fb-803b-40e9-a7e1-377a3eca97cb)
 
+#  there is multiple type of news acroding to user Mood
+![all_nws2](https://github.com/BijoyJogi123/Get-notify/assets/104933333/ead886be-10bd-4800-8d4e-a69a29925ac9)
+
+
+![Science](https://github.com/BijoyJogi123/Get-notify/assets/104933333/41eae4e3-f115-4ad3-8248-7f75584b7ca3)
 
 # Getting Started with Create React App
 
